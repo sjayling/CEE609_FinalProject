@@ -37,16 +37,21 @@ This project aims to quantify the vertical displacement of the USACE sediment en
 # VII. Results
 3 DEM’s were created for the Scotch Bonnet site; they are shown in Figures 1-3. Currently, the sediment enrichment site can not be seen in these images since placement was in October 2024 and the most recent DEM corresponds to April 2024. However, the subsidence of the marshland prior to sediment enrichment is able to be seen. Figure 4 is a DEM difference map showing the difference in elevation from 2020 to 2024. It is easily seen that the channels of water are subsiding more than the rest of the marshland. It is probable this is due to the rise in relative sea level. The sediment enrichment site was placed at the end of the channel close to the road that runs diagonally from the top left to the bottom right. This area poses a significant risk of flooding and inundation.
 
+<img width="209" alt="Scotch_Bonnet_2017_DEM" src="https://github.com/user-attachments/assets/3cea17af-1998-49d8-8e11-983737cf20c9" />
 Figure 1. DEM of Scotch Bonnet in 2017 acquired from LiDAR imagery (NOAA)
 
+<img width="211" alt="Scotch_Bonnet_2020_DEM" src="https://github.com/user-attachments/assets/66f3c2e2-5e3f-459c-baee-8108b71a1d8c" />
 Figure 2. DEM of Scotch Bonnet in 2020 acquired from LiDAR imagery (NOAA)
 
+<img width="248" alt="Scotch_Bonnet_2024_DEM" src="https://github.com/user-attachments/assets/ba000c53-6f72-4111-9d38-f90da46f91c4" />
 Figure 3. DEM of Scotch Bonnet in 2024 acquired from LiDAR imagery (US Army Corp of Engineers, 2024)
 
+<img width="325" alt="Scotch_Bonnet_20242020_diffDEM" src="https://github.com/user-attachments/assets/2ef0617f-7dbd-4de5-8607-a8fbf58833b7" />
 Figure 4. Scotch Bonnet marshland elevation difference in feet between 2020 and 2024 using LiDAR imagery (US Army Corp of Engineers, 2024; NOAA)
 
 The data from the sediment enrichment sites in Louisiana are shown in Table 1. The average vertical displacement in yards was calculated for each placement using the known dredged material volume and the known area of placement.
 
+<img width="449" alt="Louisiana_SedEnrich_Data" src="https://github.com/user-attachments/assets/7a657d5c-0010-4773-8f41-94641fb0304f" />
 Table 1. Sediment Enrichment data collected for 17 areas along the Louisiana coastline including the calculated value for average vertical displacement after the placement (Ayala 2024)
 
 
